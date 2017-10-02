@@ -1,0 +1,8 @@
+Created this directory.
+
+git init.
+
+created this file
+
+git add gittest.txt
+git commit
