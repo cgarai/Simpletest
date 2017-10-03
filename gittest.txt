@@ -6,3 +6,16 @@ created this file
 
 git add gittest.txt
 git commit
+
+I created a repository on github called SimpleTest, but then from local I did
+
+git remote add  https://github.com/cgarai/NewTest.git
+I did this because I was wondering if I could make a repo on github from
+local.   It didn't appear
+git remote add  https://github.com/cgarai/Simpletest.git
+
+now git remote -v shows  https://github.com/cgarai/NewTest.git
+
+      fatal: repository xxxx not found
+
+Commit here
