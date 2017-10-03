@@ -30,3 +30,6 @@ Found on stackexchange that .git/config
 	merge = refs/heads/master
 
 I changed NewTest to Simpletest and it worked.
+
+Now I'm adding changes on the master via GitHub editor.
+I had created a branch 'alt' before making this edit.
