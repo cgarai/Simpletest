@@ -19,3 +19,14 @@ now git remote -v shows  https://github.com/cgarai/NewTest.git
       fatal: repository xxxx not found
 
 Commit here
+
+Found on stackexchange that .git/config
+
+[remote "origin"]
+	url = https://github.com/cgarai/NewTest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = https://github.com/cgarai/Simpletest.git
+	merge = refs/heads/master
+
+I changed NewTest to Simpletest and it worked.
