@@ -1,7 +1,7 @@
 Just a simple test of using git
 
 
-
+And a bit of **Markdown** practice
 
 ```javascript
 function fancyAlert(arg) {
